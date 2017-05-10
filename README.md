@@ -126,6 +126,14 @@
     <li> Patient Gender </li>
     <li> Primary Diagnosis (ICD10)</li>
     <li> Chief Complaint (ICD10) </li>
+    <li> Vitals </li>
+        <ul> 
+        <li> Height </li>
+        <li> Weight </li>
+        <li> Temperature </li>
+        <li> Heart Rate </li>
+        <li> Blood Pressure </li>
+        </ul>
     <li> Notes </li>
         <ul><li>Test</li></ul>
     </ul>
