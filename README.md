@@ -17,7 +17,7 @@
 <li> Date of Birth </li>
     <ul>
     <li> Timestamp Format? </li>
-    <ul>
+    </ul>
 <li> Age </li>
     <ul>
     <li> Range? </li>
