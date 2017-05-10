@@ -102,8 +102,31 @@
     </ul>
 <li> Encounters </li>
     <ul>
-    <li> What will be included here? </li>
-    </ul>
+    <li> Any physical or virtual contact between a subject/patient and healthcare practitioner/researcher, during which an assessment or clinical activity is performed. - http://medical-dictionary.thefreedictionary.com/clinical+encounter</li>
+    <li> Date </li>
+    <li> Type of visit </li>
+        <ul> 
+        <li>Acute</li>
+        <li>Chronic</li>
+        <li>Wellness Visit</li>
+        </ul>
+    <li> Is this patient new to YOU? </li>
+    <ul> <li> Yes/No </li> </ul>
+    <li> Supervisor </li>
+    <li> Setting </li>
+        <ul>
+        <li> Clinic </li>
+        <li> Hospital </li>
+        <li> ER </li>
+        <li> Simulation </li>
+        </ul>
+    <li> Specific Location (i.e name of clinic/hospital) </li>
+    <li> Patient Age </li>
+    <li> Patient Gender </li>
+    <li> Primary Diagnosis (ICD10)</li>
+    <li> Chief Complaint (ICD10) </li>
+    <li> Notes </li>
+        <ul><li>Test</li></ul>
 <li> Images </li>
     <ul>
     <li> Will these be generated images or from a dataset? </li>
