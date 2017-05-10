@@ -128,6 +128,7 @@
     <li> Chief Complaint (ICD10) </li>
     <li> Notes </li>
         <ul><li>Test</li></ul>
+    </ul>
 <li> Images </li>
     <ul>
     <li> Will these be generated images or from a dataset? </li>
