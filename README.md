@@ -104,6 +104,7 @@
     <ul>
     <li> Any physical or virtual contact between a subject/patient and healthcare practitioner/researcher, during which an assessment or clinical activity is performed. - http://medical-dictionary.thefreedictionary.com/clinical+encounter</li>
     <li> Date </li>
+    <li> Physician</li>
     <li> Type of visit </li>
         <ul> 
         <li>Acute</li>
