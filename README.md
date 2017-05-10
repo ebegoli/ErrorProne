@@ -10,24 +10,56 @@
 ### Synthetic data requirements:
 <ul>
 <li> PatientID </li>
+    <ul>
+    <li> AlphaNumeric </li>
+    </ul>
 <li> Gender </li>
+    <ul>
+    <li> Male/Female OR 1/0?
+    </ul>
 <li> Marital status </li>
+    <ul>
+    <li> Single </li>
+    <li> Married </li>
+    <li> Divorced </li>
+    <li> Separated </li>
+    <li> Widowed </li>
+    <li> Unknown </li>
+    </ul>
 <li> Language </li>
+    <ul>
+    <li> English </li>
+    </ul>
 <li> Ethnicity </li>
+    <ul>
+    <li> African American </li>
+    <li> Asian </li>
+    <li> White </li>
+    <li> Unknown </li>
+    </ul>
 <li> Date of Birth </li>
     <ul>
     <li> Timestamp Format? </li>
+    <li> Min/Max? </li>
     </ul>
 <li> Age </li>
     <ul>
     <li> Range? </li>
+    <li> Dynamic or static from a predefined date? </li>
     </ul>
 <li> Diagnoses </li>
     <ul>
+    <li> ICD10 Codes </li>
     <li>Which variables will this be correlated with?</li>
     </ul>
 <li> Lab Results </li>
     <ul>
+    <li> Date </li>
+        <ul>
+        <li> Associated with a specific admission? </li>
+        </ul>
+    <li> Units </li>
+    <li> Value </li> 
     <li> Are these going to be correlated with each other? If one lab value is low, does another lab value need to be high? "For example in nonalcoholic fatty liver disease patients, assumptions would be needed about the inverse correlations of albumin levels and sodium levels with cardiovasular disease" as a comorbidity. Another example would be patients with "congestive heart failure would need to be associated with a high prevalence o diuretic use, advanced age, and a high prevalence of associated comorbidities, such as renal failure." - Uri Kartoun, "A Methodology to Generate Virtual Patient Repositories" </li>
     <li> If so, where do we find these correlations? </li>
     <li> What lab values will be included? </li>
