@@ -13,6 +13,29 @@
     <ul>
     <li> AlphaNumeric </li>
     </ul>
+<li> First Name </li>
+    <ul>
+    <li> Alpha characters </li>
+    </ul>
+<li> Last Name </li>
+    <ul>
+    <li> Alpha characters </li>
+    </ul>
+<li> SSN </li>
+    <ul>
+    <li> Format: 123456789 </li>
+    </ul>
+<li> Phone Number </li>
+    <ul>
+    <li> Format: 1234567890 </li>
+    </ul>
+<li> Street address of residence </li>
+<li> City of residence </li>
+<li> State of residence </li>
+<li> Zip code of residence </li>
+<li> City of birth</li>
+<li> State of birth </li>
+<li> Zip code of birth </li>
 <li> Gender </li>
     <ul>
     <li> Male/Female OR 1/0?
@@ -47,10 +70,20 @@
     <li> Range? </li>
     <li> Dynamic or static from a predefined date? </li>
     </ul>
-<li> Diagnoses </li>
+<li> Provider </li>
+<li> Physician </li>
+<li> Chief Complaint </li>
+    <ul>
+    <li> ICD10 Codes </li>
+    </ul>
+<li> Primary Diagnoses </li>
     <ul>
     <li> ICD10 Codes </li>
     <li>Which variables will this be correlated with?</li>
+    </ul>
+<li> Diagnoses Explanation </li>
+    <ul>
+    <li> Text </li>
     </ul>
 <li> Lab Results </li>
     <ul>
