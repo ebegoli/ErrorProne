@@ -1,0 +1,5 @@
+Imageclef.org has a labeled medical image dataset of around 164,614 images that could possibly be requested
+for download. It appears the dataset is more centered around projects with ImageCLEF; however, they may allow
+us access if we needed it. 
+
+http://imageclef.org/2017/caption
