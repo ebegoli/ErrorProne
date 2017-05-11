@@ -7,4 +7,4 @@
 # Running the Data Generation Algorithms
 
 # Documentation
-See project [wiki](wiki)
+See project [wiki](https://github.com/ebegoli/ErrorProne/wiki)
