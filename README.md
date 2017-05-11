@@ -7,4 +7,4 @@
 # Running the Data Generation Algorithms
 
 # Documentation
-See wiki
+See project [wiki](wiki)
