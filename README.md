@@ -1,7 +1,10 @@
-# Motivation for the project
+# Background
 
+# Layout
 
+# Installation and Configuration
 
+# Running the Data Generation Algorithms
 
-## Error generating algorithms
-
+# Documentation
+See wiki
